@@ -1,4 +1,7 @@
-# CS230 - Operating-Platforms
+# CS230 - Operating Platforms
+Deeper understanding of operating platforms and architectures through the analysis and evaluation of the characteristics, advantages, and weaknesses of each.
+
+Below is a questionnaire required for coursework:
 
     Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
     The Gaming Room as a client was an experienced game developer with success in a puzzle competition game. They wished to move to a more mobile market and make the game available on multiple platforms across multiple devices.
